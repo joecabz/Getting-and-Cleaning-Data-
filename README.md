@@ -94,22 +94,16 @@ The four plots that you will need to construct are shown below.
 
 ### Plot 1
 
-
-![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2.png) 
-
+![plot1](https://cloud.githubusercontent.com/assets/23426363/21339170/63d610dc-c6c0-11e6-9ab6-5c54b192d15d.png)
 
 ### Plot 2
 
-![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3.png) 
-
+![plot2](https://cloud.githubusercontent.com/assets/23426363/21339192/86399fe0-c6c0-11e6-979b-45c736203f9c.png)
 
 ### Plot 3
-
-![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png) 
-
+![plot3](https://cloud.githubusercontent.com/assets/23426363/21339202/9bce2de4-c6c0-11e6-9aea-c2d62e8bff1b.png)
 
 ### Plot 4
-
-![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
+![plot4](https://cloud.githubusercontent.com/assets/23426363/21339213/b5d359da-c6c0-11e6-8f55-53b92019d072.png)
 
 
